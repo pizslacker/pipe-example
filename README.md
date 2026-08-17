@@ -6,7 +6,7 @@ You will need two separate terminal windows for this to work.
 #### **Step 1**: Compile both programs
 ```bash
 gcc -o broadcaster broadcaster.c
-gcc -o radio radio.c
+gcc -o receiver receiver.c
 ```
 
 #### **Step 2**: Start the Broadcaster (Terminal 1)
