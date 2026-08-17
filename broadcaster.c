@@ -8,7 +8,7 @@
 int main() {
     int fd;
     // The path to our named pipe (rendezvous point)
-    char *myfifo = "/tmp/my_radio_channel";
+    char *myfifo = "/tmp/my_receiver_channel";
     char buffer[100];
 
     // Create the FIFO (named pipe) 
