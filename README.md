@@ -25,6 +25,6 @@ Type anything into Terminal 1 and hit Enter. Watch as it instantly appears in Te
 ```
 Fun trick: You don't even need the C radio program to listen!
 Because it's a file, you can just use standard Unix tools.
-Try running `./broadcaster` in Terminal 1, and in Terminal 2 just run cat /tmp/my_receiver_channel.
+Try running `./broadcaster` in Terminal 1, in Terminal 2 just run cat /tmp/my_receiver_channel.
 The cat command will act as your reader!
 ```
